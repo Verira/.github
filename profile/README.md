@@ -1,4 +1,4 @@
-Verira.com | Servis Sağlayıcısı 🌐
+🌐 Verira.com | Servis Sağlayıcısı 
 
 📖 Verira.com 2021 yılında faliyete geçmiş. Bursa / DGN merkezli, bünyesinde piyasada bulunan en yeni donanımları barındıran. Oyun sunucuları odaklı hosting sağlayıcısıdır.
 
