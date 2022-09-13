@@ -1,12 +1,14 @@
-## Hi there 👋
+Verira.com | Servis Sağlayıcısı 🌐
 
-<!--
+📖 Verira.com 2021 yılında faliyete geçmiş. Bursa / DGN merkezli, bünyesinde piyasada bulunan en yeni donanımları barındıran. Oyun sunucuları odaklı hosting sağlayıcısıdır.
 
-**Here are some ideas to get you started:**
+💾Verira patentli, vergi mükellefi ve BTK onaylı bir servis sağlayıcısı olup ilk günden beri kullanıcılarımıza uygun ve performanslı sunucu sağlamayı amaçlıyoruz, bu doğrultuda siz müşterilerimize üst düzey donanımları ülke şartlarına rağmen uygun fiyatlardan sağlamaya ve bunu yaparken maksimum müşteri memnuniyeti ilkesine bağlı kalıyoruz. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+💻Verira olarak sanal sunucu, fiziksel sunucu, afk-bot, webhosting, reseller, teamspeak3 sunucu, lisans ve yazılım gibi ürünler sağlamaktayız. Daha fazla bilgi için bizimle iletişime geçebilirsiniz. 
+
+⏭️ Vizyonumuz: Verira olarak öncelikli amacımız müşterilerimize kesintisiz ve performanslı hosting hizmeti sağlamaktır. Buna ek olarak yazılım ve lisans hizmetlerimiz ile kullanıcılarımıza yazılımsal hizmet de vermekteyiz. 
+🚀 Misyonumuz: Verira olarak öncelikli amacımız müşterilerimize kesintisiz ve performanslı hosting hizmeti sağlamaktır. Buna ek olarak yazılım ve lisans hizmetlerimiz ile kullanıcılarımıza yazılımsal hizmet de vermekteyiz. 
+
+📨İletişim adreslerimiz: 
+Discord: https://discord.gg/CAuEKfcWCp
+Site: https://verira.com
